@@ -7,7 +7,7 @@
 &nbsp;
 
 
-<img src="https://cdn.kastatic.org/ka-perseus-images/281341d0ce02b9d8f7c74ece5424b580e8ff438f.png" width="250px">
+<img src="https://cdn.kastatic.org/ka-perseus-images/281341d0ce02b9d8f7c74ece5424b580e8ff438f.png" width="350px">
 
 
 ## On-campus
