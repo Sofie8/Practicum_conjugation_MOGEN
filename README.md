@@ -48,4 +48,6 @@ By the end of the practicum, you should be able to:
 
 
 ## Course instructors
+Vincent.stevens@uhasselt.be
+Leila.paquay@uhasselt.be
 sofie.thijs@uhasselt.be
