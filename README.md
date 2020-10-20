@@ -20,7 +20,7 @@ Here you will find the outline, daily schedule, and powerpoint presentations for
 | Thu 22/10     |  | |
 |  |  | |
 | 8h45-9h00     | [Biosafety presentation: watch before you come to the class](https://github.com/Sofie8/Practicum_conjugation_MOGEN/blob/main/Biosafety.md)| online |
-| 9h00-9h30   | [Intro to the practicum](https://github.com/Sofie8/Course-MOGEN/blob/main/INTRO.md)| G2 |
+| 9h00-9h30   | [Introduction to the practicum](https://github.com/Sofie8/Course-MOGEN/blob/main/INTRO.md)| G2 |
 | 9h30-12h00   | [Genomic DNA extraction](https://github.com/Sofie8/Practicum_conjugation_MOGEN/blob/main/gDNA-extraction.md)| G42 |
 | 12h00-13h00   | Lunch Break  |
 | 13h00-14h45   | [Plasmid DNA extraction](https://github.com/Sofie8/Course-MOGEN/blob/main/plasmidDNA-extraction.md)| G42 |
@@ -48,6 +48,6 @@ By the end of the practicum, you should be able to:
 
 
 ## Course instructors
-Vincent.stevens@uhasselt.be
-Leila.paquay@uhasselt.be
-sofie.thijs@uhasselt.be
+Vincent.stevens@uhasselt.be  
+Leila.paquay@uhasselt.be  
+sofie.thijs@uhasselt.be  
