@@ -55,7 +55,8 @@ Lunch break
 Read the instructions how to perform a plasmid DNA extraction in the lab manual (there is no virtual module for this).  
 The procedure is different then the gDNA extraction, how and why?  
 
-Follow the instructions of the assistant to load your gDNA and plasmid DNA on the gel.  
+In praxilab, click on the module: gel electrophoresis, enter the virtual lab, and follow the protocol that the virtual instructor gives you to load DNA in the gel.  
+What is the role of the red 'stain' that you add to the agarose?  What is the role of the loading buffer?  Why do we orientate the gel and load from - to + ?  
 You will receive the gel results the next day in the morning.
 
 ## References
