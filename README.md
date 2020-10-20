@@ -23,8 +23,8 @@ Here you will find the outline, daily schedule, and powerpoint presentations for
 | 9h00-9h30   | [Introduction to the practicum](https://github.com/Sofie8/Course-MOGEN/blob/main/INTRO.md)| G2 |
 | 9h30-12h00   | [Genomic DNA extraction](https://github.com/Sofie8/Practicum_conjugation_MOGEN/blob/main/gDNA-extraction.md)| G42 |
 | 12h00-13h00   | Lunch Break  |
-| 13h00-14h45   | [Plasmid DNA extraction](https://github.com/Sofie8/Course-MOGEN/blob/main/plasmidDNA-extraction.md)| G42 |
-| 15h00-16h00   | [Gel-electrophoresis of gDNA and plasmid DNA](https://github.com/Sofie8/Course-MOGEN/blob/main/GEF.md)| G42 |
+| 13h00-14h45   | [Plasmid DNA extraction](https://github.com/Sofie8/Practicum_conjugation_MOGEN/blob/main/gDNA+plasmid+GEF.md)| G42 |
+| 15h00-16h00   | [Gel-electrophoresis of gDNA and plasmid DNA](https://github.com/Sofie8/Practicum_conjugation_MOGEN/blob/main/gDNA+plasmid+GEF.md)| G42 |
 | 16h00-16h15   | Cleaning| G42 |
 |  |  ||
 | Fri 23/10     |  | |
