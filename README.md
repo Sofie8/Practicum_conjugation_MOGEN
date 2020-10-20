@@ -8,7 +8,7 @@
 &nbsp;
 
 
-Here you will find the outline, and materials for the practicum conjugation if you follow it offline.
+Here you will find the outline, daily schedule, and powerpoint presentations for the practicum conjugation.
 
 
 <img src="https://cdn.dribbble.com/users/1105422/screenshots/3165529/bacterias.gif" width="150px">
