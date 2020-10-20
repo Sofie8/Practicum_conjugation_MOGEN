@@ -11,14 +11,14 @@
 Here you will find the outline, and materials for the practicum conjugation if you follow it offline.
 
 
-<img src="https://photos1.blogger.com/blogger/4566/894/1600/conjugation-contact2.jpg" width="100px">
+<img src="https://cdn.dribbble.com/users/1105422/screenshots/3165529/bacterias.gif" width="150px">
 
 
 # Schedule
 | Time  | Activity | Room |
 | ------------- | ------------- |------------- |
 | Thu 22/10     |  | |
-| ------------- | ------------- |------------- |
+|  |  | |
 | 8h45-9h00     | [Biosafety presentation WATCH before to come to the class](https://github.com/Sofie8/Course-MOGEN/blob/main/biosafety.md)| online |
 | 9h00-9h30   | [Intro to the practicum](https://github.com/Sofie8/Course-MOGEN/blob/main/INTRO.md)| G2 |
 | 9h30-12h00   | [Genomic DNA extraction](https://github.com/Sofie8/Course-MOGEN/blob/main/gDNA-extraction.md)| G42 |
