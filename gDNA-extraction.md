@@ -60,8 +60,8 @@ What is the role of the red 'stain' that you add to the agarose?  What is the ro
 You will receive the gel results the next day in the morning.
 
 ## References
-- If you have time left: check this [video]() about the bacterial genome organisation.  
-Use this to discuss your findings of the DNA extraction and gel electrophoresis.
+- If you have time left: check this [video](https://github.com/Sofie8/Practicum_conjugation_MOGEN/blob/main/Thebacterialgenome.mp4) about the bacterial genome organisation.  
+Use this to discuss your findings of the DNA extraction results. What is the expected size of the gDNA, what do you see on gel? Are there plasmids?
 
 &nbsp;
 &nbsp;
