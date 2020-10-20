@@ -57,6 +57,9 @@ The procedure is different then the gDNA extraction, how and why?
 
 In praxilab, click on the module: gel electrophoresis, enter the virtual lab, and follow the protocol that the virtual instructor gives you to load DNA in the gel.  
 What is the role of the red 'stain' that you add to the agarose?  What is the role of the loading buffer?  Why do we orientate the gel and load from - to + ?  
+
+<img src="https://praxilabs.com/EnglishContent/images/O_NewVirtualLab/Molecular%20Biology/Protein%20Electrophoresis/1.png" width="250px">  
+
 You will receive the gel results the next day in the morning.
 
 ## References
