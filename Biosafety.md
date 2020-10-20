@@ -1,1 +1,1 @@
-### Download the [powerpoint](https://github.com/Sofie8/Practicum_conjugation_MOGEN/blob/main/0_BIOVEILIG%20MICROBIOLOGISCH%20WERKEN.pptx): Biosafety and read carefully before coming to the conjugation lab.
+### Download the powerpoint: [Biosafety](https://github.com/Sofie8/Practicum_conjugation_MOGEN/blob/main/0_BIOVEILIG%20MICROBIOLOGISCH%20WERKEN.pptx) and read carefully before coming to the conjugation lab.
