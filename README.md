@@ -17,7 +17,7 @@ Here you will find the outline, and materials for the practicum conjugation if y
 # Schedule
 | Time  | Activity | Room |
 | ------------- | ------------- |------------- |
-| Thu 22/10     | ------------- |------------- |
+| Thu 22/10     |  | |
 | ------------- | ------------- |------------- |
 | 8h45-9h00     | [Biosafety presentation WATCH before to come to the class](https://github.com/Sofie8/Course-MOGEN/blob/main/biosafety.md)| online |
 | 9h00-9h30   | [Intro to the practicum](https://github.com/Sofie8/Course-MOGEN/blob/main/INTRO.md)| G2 |
@@ -26,8 +26,8 @@ Here you will find the outline, and materials for the practicum conjugation if y
 | 13h00-14h45   | [Plasmid DNA extraction](https://github.com/Sofie8/Course-MOGEN/blob/main/plasmidDNA-extraction.md)| G42 |
 | 15h00-16h00   | [Gel-electrophoresis of gDNA and plasmid DNA](https://github.com/Sofie8/Course-MOGEN/blob/main/GEF.md)| G42 |
 | 16h00-16h15   | Cleaning-up| G42 |
-| ------------- | ------------- |------------- |
-| Fri 23/10     | ------------- |------------- |
+|  |  ||
+| Fri 23/10     |  | |
 | ------------- | ------------- |------------- |
 
 
