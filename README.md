@@ -1,6 +1,6 @@
 ## Practicum Conjugation
 ### Sofie Thijs (sofie.thijs@uhasselt.be)
-### date: 20/10/2020
+### date: 22/10/2020
 
 
 &nbsp;
