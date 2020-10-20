@@ -1,4 +1,4 @@
-## DNA extraction
+## gDNA extraction, plasmid extraction and agarose gel-electrophoresis
 ### Sofie Thijs (sofie.thijs@uhasselt.be)
 ### date: 22/10/2020
 
