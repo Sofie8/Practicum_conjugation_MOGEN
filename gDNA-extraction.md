@@ -32,8 +32,8 @@ You will receive the gel results the next day in the morning.
 
 ## Online
 
-- Based on the email instructions you should have signed up for [praxilab](https://praxilabs.com/en/sign-up)
-- click on the module: DNA extraction, enter the virtual lab, and follow the DNA-extraction protocol that the virtual instructor gives you.  
+- Based on the email instructions you should have signed up for [praxilab](https://praxilabs.com/en/sign-up).
+- Click on the module: DNA extraction, enter the virtual lab, and follow the DNA-extraction protocol that the virtual instructor gives you.  
 Click on the robot to let him speak.
 
 <img src="https://praxilabs.com/EnglishContent/images/News/Biology.jpg" width="250px">
@@ -52,7 +52,7 @@ How does it differ from the protocol your colleagues used. What are the advantag
 
 Lunch break
 
-Follow the instructions of the assistant to perform the plasmid extraction.  
+Read the instructions how to perform a plasmid DNA extraction in the lab manual (there is no virtual module for this).  
 The procedure is different then the gDNA extraction, how and why?  
 
 Follow the instructions of the assistant to load your gDNA and plasmid DNA on the gel.  
