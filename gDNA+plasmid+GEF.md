@@ -12,6 +12,7 @@
 
 ## On-campus
 
+### gDNA extraction
 Choose your receptor bacterial strain you will work with during this practicum.   
 Perform the gDNA extraction by following the instructions on page 4 of the lab manual.  
 Additional instructions are given by the assistant how to operate the pipets and centrifuges.
@@ -25,9 +26,11 @@ Hint: use the [NCBI website](https://www.ncbi.nlm.nih.gov/) and the accession nu
 
 Lunch break
 
+### plasmid DNA extraction
 Follow the instructions of the assistant to perform the plasmid extraction, on page 11 in the lab manual.  
 The procedure is different then the gDNA extraction, how and why?  
 
+### gel electrophoresis
 Follow the instructions of the assistant to load your gDNA and plasmid DNA on the gel, on page 13 in the lab manual.  
 You will receive the gel results the next day in the morning.
 
@@ -36,6 +39,7 @@ You will receive the gel results the next day in the morning.
 
 ## Online
 
+### gDNA extraction
 Choose the receptor bacterial strain you will work with during this practicum.
 >>>> Send me a mail with the name of the receptor strain that you will work with (sofie.thijs@uhasselt.be)  
 
@@ -62,9 +66,11 @@ How does it differ from the protocol your colleagues used. What are the advantag
 
 Lunch break
 
+### Plasmid DNA extraction
 Read the instructions how to perform a plasmid DNA extraction on page 11 in the lab manual (there is no virtual module for this).  
 The procedure is different then the gDNA extraction, how and why?  
 
+### Gel electrophoresis
 Read the instructions how to load your gDNA and plasmid DNA on an agarose gel, on page 13 in the lab manual.  
 In praxilab, click on the module: gel electrophoresis, enter the virtual lab, and follow the protocol that the virtual instructor gives.  
 What is the role of the red 'stain' that you add to the agarose?  What is the role of the loading buffer?  Why do we orientate the gel and load from - to + ?  
