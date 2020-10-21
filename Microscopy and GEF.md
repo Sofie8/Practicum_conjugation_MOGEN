@@ -55,8 +55,7 @@ Once you have the microscopy images, try to interpret them:
 Read the instructions on page 22 to know how to pour an agarose gel, and how to perform the plasmid DNA extraction.  
 You can virtually load the gel, similar as in lab part 1 using the virtual module. You can practice it again, or go on to the next step.  
 >>>> Write me a mail (sofie.thijs@uhasselt.be) when you are ready with this module.
-You will get from us the gel electrophoresis results.   
-NOTE: The results of the gel will depend on the bacterium you have chosen to work with, the selective medium you chose etc..  
+You will get from us the gel electrophoresis results. NOTE: The results of the gel will depend on the bacterium you have chosen to work with, the selective medium you chose etc..  
 
 One you both the fluorescence microscopy images and gel electrophoresis results, try to answer following questions and use it to discuss your findings in the report:
 - I see both a plasmid band in the gel, and I have fluorescent bacteria! Yes, conjugation was succesful?  
@@ -65,7 +64,7 @@ One you both the fluorescence microscopy images and gel electrophoresis results,
 - The plasmid band size is... correct size, not correct size?
 
 ## References
--
+- https://myscope.training/legacy/confocal/virtual/fluorescence.php
 
 &nbsp;
 &nbsp;
