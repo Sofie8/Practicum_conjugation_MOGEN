@@ -24,7 +24,7 @@ Choose your selective medium to be able to select your transconjugant. Questions
 - Are there other things you are going to do, other ways you know of to select your transconjugant?
 
 Follow the instructions on page 17 in the lab manual, to streak your bacteria on plate after conjugation.  
-The assistants will also show you how to do this for the first time.
+The assistants will also show you how to do this.
 
 &nbsp;
 &nbsp;
@@ -38,7 +38,7 @@ So add the bacteria in the same way as described in your lab manual.
 If you finished the module, it will give you feedback and a picture of how you streaked the bacteria.  
 >>>> Mail me the image of your plate for feedback (sofie.thijs@uhasselt.be).  
 
-<img src="http://osu-wams-blogs-uploads.s3.amazonaws.com/blogs.dir/96/files/2014/01/mb230-lab4main.jpg" width="150px">
+<img src="http://osu-wams-blogs-uploads.s3.amazonaws.com/blogs.dir/96/files/2014/01/mb230-lab4main.jpg" width="250px">
 
 Lunch break
 
