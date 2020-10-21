@@ -12,17 +12,20 @@
 
 ## On-campus
 
+### Perform the conjugation
 Follow the instructions on page 16 in the lab manual, to perform the triparental conjugation.  
 The assistants will demonstrate how you work sterile.
 
 Lunch break
 
+### Choose the selective growth medium
 Choose your selective medium to be able to select your transconjugant. Questions to help you:  
 - Which nutrient medium are you going to use? Hint: you want only your receptor+gfp-vector strain (= transconjugant) to grow, not the donor and helper *E.coli*
 - Are you going to add certain supplements to your medium as carbon or nitrogen source?
 - Are you going to incubate at a certain temperature?
 - Are there other things you are going to do, other ways you know of to select your transconjugant?
 
+### Plate the bacteria on your selective medium
 Follow the instructions on page 17 in the lab manual, to streak your bacteria on plate after conjugation.  
 The assistants will also show you how to do this.
 
@@ -31,6 +34,7 @@ The assistants will also show you how to do this.
 
 ## Online
 
+### Perform the conjugation
 Follow the instructions on page 16 in the lab manual, to know how to perform the triparental conjugation.  
 You can practise to work sterile, open tubes, and plate using this virtual [lab](https://courses.ecampus.oregonstate.edu/mb230/interactives/MB230-Lab4Streak.html).
 The exercise learns you in fact the quadrant streak method, but in this case, you are going to add all 3 bacteria on top of each other to perform conjugation.  
@@ -42,6 +46,7 @@ If you finished the module, it will give you feedback and a picture of how you s
 
 Lunch break
 
+### Choose your selective growth medium
 Choose your selective medium to be able to select your transconjugant. Questions to help you:  
 - Which nutrient medium are you going to use? Hint: you want only your receptor+gfp-vector strain (= transconjugant) to grow, not the donor and helper *E.coli*
 - Are you going to add certain supplements to your medium as carbon or nitrogen source?
@@ -49,6 +54,7 @@ Choose your selective medium to be able to select your transconjugant. Questions
 - Are there other things you are going to do,  other ways you know of to select your transconjugant?
 >>>> Mail me the medium for feedback (sofie.thijs@uhasselt.be).
 
+### Plate the bacteria on your selective medium
 When you have confirmation of the correct medium, you can now streak the bacteria after conjugation, on your selective medium.
 Watch the instruction [video](https://www.youtube.com/watch?v=oYBZxRJLMnY) how to do streak plate method, and then do it yourself using this [virtual lab module](https://learn.chm.msu.edu/vibl/content/streakplate/streak_plate/streak_plate.html).
 
