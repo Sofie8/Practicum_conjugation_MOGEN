@@ -1,6 +1,6 @@
-### Report guidelines: The bacterial genome and genetic variation by conjugation
+## Report guidelines: The bacterial genome and genetic variation by conjugation
 
-## What is expected
+### What is expected
 For this practicum, you write an introduction, the main focus, but also you will practice how to present a figure and write results, and a short discussion (you don’t need to provide material and methods).
 
 You will need to:  
