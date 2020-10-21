@@ -26,16 +26,20 @@ Here you will find the outline, daily schedule, and powerpoint presentations for
 | 13h00-14h45   | [Plasmid DNA extraction](https://github.com/Sofie8/Practicum_conjugation_MOGEN/blob/main/gDNA+plasmid+GEF.md)| G42 |
 | 15h00-16h00   | [Gel-electrophoresis of gDNA and plasmid DNA](https://github.com/Sofie8/Practicum_conjugation_MOGEN/blob/main/gDNA+plasmid+GEF.md)| G42 |
 | 16h00-16h15   | Cleaning| G42 |
-|  |  ||
+
+&nbsp;
+
 | Fri 23/10     |  | |
 |  |  | |
-| 9h00-9h30   | [Results gel electrophoresis and introduction to conjugation](https://github.com/Sofie8/Course-MOGEN/blob/main/INTRO.md)| G41 |
-| 9h30-11h30   | [Conjugation](https://github.com/Sofie8/Practicum_conjugation_MOGEN/blob/main/gDNA%2Bplasmid%2BGEF.md)| G42 |
+| 9h00-9h30   | [Results gel electrophoresis and introduction to conjugation]()| G41 |
+| 9h30-11h30   | [Conjugation]()| G42 |
 | 12h00-13h00   | Lunch Break  |
-| 13h00-14h30   | Read, search and design your selective medium | free work place to work covidsafe in group |
-| 14h30-15h30   | [Plate conjugation on your selective medium](https://github.com/Sofie8/Practicum_conjugation_MOGEN/blob/main/gDNA+plasmid+GEF.md)| G41 |
+| 13h00-14h30   | [Read, search and design your selective medium]() | free work place to work covidsafe in group |
+| 14h30-15h30   | [Plate conjugation on your selective medium]()| G41 |
 | 15h30-16h45   | Cleaning| G41 |
-|  |  ||
+
+&nbsp;
+
 | Mo 26/10     |  | |
 |  |  | |
 | 9h00-9h50   | [Microscopy slide preparation and fluorescence microscopy group 1]()| G41 + G72 |
@@ -46,9 +50,13 @@ Here you will find the outline, daily schedule, and powerpoint presentations for
 | 13h50-14h40   | [Plasmid DNA extraction and gel electrophoresis group 3]()| G41 |
 | 13h50-14h40   | [Microscopy slide preparation and fluorescence microscopy group 4]()| G41 + G72 |
 | 14h40-15h30   | [Plasmid DNA extraction and gel electrophoresis group 4]()| G41 |
-|  |  ||
+
+&nbsp;
+
 | Tu 3/11     | Deadline hand-in report | |
-|  |  | |
+
+&nbsp;
+
 | Thu 5/11     | Report feedback | |
 | 8h30-9h30| [Feedback on report]() | online blackboard collaborate |
 
