@@ -37,7 +37,8 @@ You will receive the gel results the next day in the morning.
 ## Online
 
 Choose the receptor bacterial strain you will work with during this practicum.
->>>> Send me a mail with the name of the receptor strain that you will work with (sofie.thijs@uhasselt.be)
+>>>> Send me a mail with the name of the receptor strain that you will work with (sofie.thijs@uhasselt.be)  
+
 Read the instructions on page 4 of the lab manual to know how to perform the gDNA extraction.  
 When you are ready, enter the virtual class.  
 
