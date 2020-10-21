@@ -36,15 +36,16 @@ Read the instructions on page 18 in the lab manual to know how to make the micro
 Now you will be able to handle the [virtual fluorescence microscope](https://myscope.training/legacy/confocal/virtual/fluorescence.php) to observe a sample.  
 Please follow the instructions given on the webpage to turn the fluorescence on, focus your sample.  You can also try out the module light microscopy, and the module confocal microscopy. 
 
-<img src="https://micro.org.au/wp-content/uploads/2019/08/OnlineTools-Graphic-524px-MyScope-300x300.png" width="150px">
+<img src="https://github.com/Sofie8/Practicum_conjugation_MOGEN/blob/main/Virtualmicroscope.JPG" width="250px">
+
 
 Answer to the following questions:  
 - Can you explain the principle of a fluorescence microscope? How does it work?
 - Which filters are we going to use to excite the gfp molecule?  
 >>>> Write me a mail (sofie.thijs@uhasselt.be) when you are ready with this module.  
-You will get from us the fluorescence microscopy images of your bacterium you chose to work with. NOTE: The results of the images will depend on the medium that you have chosen and how sterile you worked (this will get judged based on the images you send me from the conjugation, and quadrant streaking excercise).  
+You will get from us the fluorescence microscopy images of your bacterium. NOTE: The results of the images will depend on the selective growth medium that you have chosen and how sterile you worked (this will get judged based on the images you send me from the conjugation, and quadrant streaking excercise).  
 
-One you have the images, try to interpret them:  
+Once you have the microscopy images, try to interpret them:  
 - I see fluorescent bacteria! So my conjugation was succesful?  
 - I don't see fluorescent bacteria.. what could have happened?  
 - I see that some cells are brighter fluorescent than others? What could have happened?  
