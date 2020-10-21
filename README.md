@@ -24,7 +24,7 @@ Here you will find the outline, daily schedule, and powerpoint presentations for
 | 12h00-13h00   | Lunch Break  |
 | 13h00-14h45   | [Plasmid DNA extraction](https://github.com/Sofie8/Practicum_conjugation_MOGEN/blob/main/gDNA+plasmid+GEF.md)| G42 |
 | 15h00-16h00   | [Gel-electrophoresis of gDNA and plasmid DNA](https://github.com/Sofie8/Practicum_conjugation_MOGEN/blob/main/gDNA+plasmid+GEF.md)| G42 |
-| 16h00-16h15   | Cleaning| G42 |
+| 16h00-16h15   | Cleaning up your workspace | G42 |
 
 &nbsp;
 
@@ -36,7 +36,7 @@ Here you will find the outline, daily schedule, and powerpoint presentations for
 | 12h00-13h00   | Lunch Break  |
 | 13h00-14h30   | [Read, search and design your selective medium](https://github.com/Sofie8/Practicum_conjugation_MOGEN/blob/main/Conjugation.md) | free work place |
 | 14h30-15h30   | [Plate conjugation on your selective medium](https://github.com/Sofie8/Practicum_conjugation_MOGEN/blob/main/Conjugation.md)| G41 |
-| 15h30-16h45   | Cleaning| G41 |
+| 15h30-16h45   | Cleaning up your workspace | G41 |
 
 &nbsp;
 
