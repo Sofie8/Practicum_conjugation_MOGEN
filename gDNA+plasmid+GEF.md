@@ -12,7 +12,8 @@
 
 ## On-campus
 
-Choose your receptor bacterial strain and perform the gDNA extraction by following the instructions on page 4 of the lab manual.
+Choose your receptor bacterial strain you will work with during this practicum.   
+Perform the gDNA extraction by following the instructions on page 4 of the lab manual.  
 Additional instructions are given by the assistant how to operate the pipets and centrifuges.
 
 During the first 30 minute break (incubation step at 37°C):   
