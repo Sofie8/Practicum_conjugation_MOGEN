@@ -22,7 +22,7 @@ Choose your selective medium to be able to select your transconjugant. Question 
 - Are you going to incubate at a certain temperature?
 - Are there other things you are going to do, other ways you know of to select your transconjugant?
 
-Follow the instructions of the assistant to streak plate the bacterium on your selective medium.
+Follow the instructions of the assistant to streak plate the bacteria after the conjugation, on your selective medium.
 
 &nbsp;
 &nbsp;
