@@ -21,7 +21,7 @@ Here you will find the outline, daily schedule, and powerpoint presentations for
 |  |  | |
 | 8h45-9h00     | [Biosafety presentation: watch before you come to the class](https://github.com/Sofie8/Practicum_conjugation_MOGEN/blob/main/Biosafety.md)| online |
 | 9h00-9h30   | [Introduction to the practicum](https://github.com/Sofie8/Course-MOGEN/blob/main/INTRO.md)| G2 |
-| 9h30-12h00   | [Genomic DNA extraction](https://github.com/Sofie8/Practicum_conjugation_MOGEN/blob/main/gDNA-extraction.md)| G42 |
+| 9h30-12h00   | [Genomic DNA extraction](https://github.com/Sofie8/Practicum_conjugation_MOGEN/blob/main/gDNA%2Bplasmid%2BGEF.md)| G42 |
 | 12h00-13h00   | Lunch Break  |
 | 13h00-14h45   | [Plasmid DNA extraction](https://github.com/Sofie8/Practicum_conjugation_MOGEN/blob/main/gDNA+plasmid+GEF.md)| G42 |
 | 15h00-16h00   | [Gel-electrophoresis of gDNA and plasmid DNA](https://github.com/Sofie8/Practicum_conjugation_MOGEN/blob/main/gDNA+plasmid+GEF.md)| G42 |
