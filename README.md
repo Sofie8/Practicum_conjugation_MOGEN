@@ -43,14 +43,14 @@ Here you will find the outline, daily schedule, and powerpoint presentations for
 ## Monday 26/10/2020
 | Time  | Activity | Room |
 | ------------- | ------------- |------------- |
-| 13h00-13h50   | [Microscopy slide preparation and fluorescence microscopy group 1]()| G41 + G72 |
-| 13h50-14h40   | [Plasmid DNA extraction and gel electrophoresis group 1]()| G41 |
-| 13h50-14h40   | [Microscopy slide preparation and fluorescence microscopy group 2]()| G41 + G72 |
-| 14h40-15h30   | [Plasmid DNA extraction and gel electrophoresis group 2]()| G41 |
-| 14h40-15h30   | [Microscopy slide preparation and fluorescence microscopy group 3]()| G41 + G72 |
-| 15h30-16h20   | [Plasmid DNA extraction and gel electrophoresis group 3]()| G41 |
-| 15h30-16h20   | [Microscopy slide preparation and fluorescence microscopy group 4]()| G41 + G72 |
-| 16h20-17h10   | [Plasmid DNA extraction and gel electrophoresis group 4]()| G41 |
+| 13h00-13h50   | [Microscopy slide preparation and fluorescence microscopy group 1](https://github.com/Sofie8/Practicum_conjugation_MOGEN/blob/main/Microscopy%20and%20GEF.md)| G41 + G72 |
+| 13h50-14h40   | [Plasmid DNA extraction and gel electrophoresis group 1](https://github.com/Sofie8/Practicum_conjugation_MOGEN/blob/main/Microscopy%20and%20GEF.md)| G41 |
+| 13h50-14h40   | [Microscopy slide preparation and fluorescence microscopy group 2](https://github.com/Sofie8/Practicum_conjugation_MOGEN/blob/main/Microscopy%20and%20GEF.md)| G41 + G72 |
+| 14h40-15h30   | [Plasmid DNA extraction and gel electrophoresis group 2](https://github.com/Sofie8/Practicum_conjugation_MOGEN/blob/main/Microscopy%20and%20GEF.md)| G41 |
+| 14h40-15h30   | [Microscopy slide preparation and fluorescence microscopy group 3](https://github.com/Sofie8/Practicum_conjugation_MOGEN/blob/main/Microscopy%20and%20GEF.md)| G41 + G72 |
+| 15h30-16h20   | [Plasmid DNA extraction and gel electrophoresis group 3](https://github.com/Sofie8/Practicum_conjugation_MOGEN/blob/main/Microscopy%20and%20GEF.md)| G41 |
+| 15h30-16h20   | [Microscopy slide preparation and fluorescence microscopy group 4](https://github.com/Sofie8/Practicum_conjugation_MOGEN/blob/main/Microscopy%20and%20GEF.md)| G41 + G72 |
+| 16h20-17h10   | [Plasmid DNA extraction and gel electrophoresis group 4](https://github.com/Sofie8/Practicum_conjugation_MOGEN/blob/main/Microscopy%20and%20GEF.md)| G41 |
 
 &nbsp;
 
