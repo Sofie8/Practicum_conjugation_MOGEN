@@ -34,7 +34,7 @@ Here you will find the outline, daily schedule, and powerpoint presentations for
 | 9h00-9h30   | [Results gel electrophoresis and introduction to conjugation]()| G41 |
 | 9h30-11h30   | [Conjugation]()| G42 |
 | 12h00-13h00   | Lunch Break  |
-| 13h00-14h30   | [Read, search and design your selective medium]() | free work place to work covidsafe in group |
+| 13h00-14h30   | [Read, search and design your selective medium]() | free work place |
 | 14h30-15h30   | [Plate conjugation on your selective medium]()| G41 |
 | 15h30-16h45   | Cleaning| G41 |
 
