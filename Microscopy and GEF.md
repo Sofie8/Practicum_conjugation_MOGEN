@@ -34,13 +34,15 @@ One you both the fluorescence microscopy images and gel electrophoresis results,
 ### Microscopy part
 Read the instructions on page 18 in the lab manual to know how to make the microscopy slide.  
 Now you will be able to handle the [virtual fluorescence microscope](https://myscope.training/legacy/confocal/virtual/fluorescence.php) to observe a sample.  
-Please follow the instructions given on the webpage to turn the fluorescence on, focus your sample.  You can also try out the module light microscopy, and the module confocal microscopy.  
+Please follow the instructions given on the webpage to turn the fluorescence on, focus your sample.  You can also try out the module light microscopy, and the module confocal microscopy. 
+
+<img src="https://micro.org.au/wp-content/uploads/2019/08/OnlineTools-Graphic-524px-MyScope-300x300.png" width="150px">
+
 Answer to the following questions:  
 - Can you explain the principle of a fluorescence microscope? How does it work?
 - Which filters are we going to use to excite the gfp molecule?  
 >>>> Write me a mail (sofie.thijs@uhasselt.be) when you are ready with this module.  
-You will get from us the fluorescence microscopy images of your bacterium you chose to work with.  
-NOTE: The results of the images will depend on the medium that you have chosen and how sterile you worked (this will get judged based on the images you send me from the conjugation, and quadrant streaking excercise).  
+You will get from us the fluorescence microscopy images of your bacterium you chose to work with. NOTE: The results of the images will depend on the medium that you have chosen and how sterile you worked (this will get judged based on the images you send me from the conjugation, and quadrant streaking excercise).  
 
 One you have the images, try to interpret them:  
 - I see fluorescent bacteria! So my conjugation was succesful?  
