@@ -55,6 +55,7 @@ Here you will find the outline, daily schedule, and powerpoint presentations for
 &nbsp;
 
 ## Tuesday 3/11/2020: deadline hand-in report 
+Read [here]() for the report guidelines.
 
 &nbsp;
 
