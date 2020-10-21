@@ -18,7 +18,7 @@ Here you will find the outline, daily schedule, and powerpoint presentations for
 ## Thursday 22/10/2020
 | Time  | Activity | Room |
 | ------------- | ------------- |------------- |
-| 8h45-9h00     | [Biosafety presentation: watch before you come to the class](https://github.com/Sofie8/Practicum_conjugation_MOGEN/blob/main/Biosafety.md)| online |
+| 8h45-9h00     | [Biosafety presentation](https://github.com/Sofie8/Practicum_conjugation_MOGEN/blob/main/Biosafety.md)| G2 |
 | 9h00-9h30   | [Introduction to the practicum](https://github.com/Sofie8/Practicum_conjugation_MOGEN/blob/main/1_Introduction.pptx)| G2 |
 | 9h30-12h00   | [Genomic DNA extraction](https://github.com/Sofie8/Practicum_conjugation_MOGEN/blob/main/gDNA%2Bplasmid%2BGEF.md)| G42 |
 | 12h00-13h00   | Lunch Break  |
