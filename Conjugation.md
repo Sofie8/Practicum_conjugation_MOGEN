@@ -7,7 +7,7 @@
 &nbsp;
 
 
-<img src="https://www.nature.com/news/2001/011119/images/ecoli_160.jpg" width="350px">
+<img src="https://www.nature.com/news/2001/011119/images/ecoli_160.jpg" width="150px">
 
 
 ## On-campus
@@ -41,18 +41,14 @@ Choose your selective medium to be able to select your transconjugant. Questions
 >>>> Mail me the medium for feedback 
 
 When you have confirmation of the correct medium, you can now streak your bacterium on your selective medium.
-Watch the instruction [video](https://www.youtube.com/watch?v=oYBZxRJLMnY) how to do streak plate method, and then do it yourself [here](https://learn.chm.msu.edu/vibl/content/streakplate/streak_plate/streak_plate.html)
+Watch the instruction [video](https://www.youtube.com/watch?v=oYBZxRJLMnY) how to do streak plate method, and then do it yourself using this [virtual lab module](https://learn.chm.msu.edu/vibl/content/streakplate/streak_plate/streak_plate.html).
 
 <img src="https://i.ytimg.com/vi/oYBZxRJLMnY/maxresdefault.jpg"  width="350px">
-
-&nbsp;
-&nbsp;
 
 Your bacteria will grow over the weekend! Let's check the results on monday morning together.
 
 ## References
-- If you have time left: check this [video]() about conjugation.  
-Use this to discuss your findings of the conjugation results. 
+- If you have time left: check this [video]() about conjugation. Use this to discuss your findings of the conjugation results. 
 
 &nbsp;
 &nbsp;
