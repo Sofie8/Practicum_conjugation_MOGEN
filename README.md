@@ -63,6 +63,8 @@ Here you will find the outline, daily schedule, and powerpoint presentations for
 | ------------- | ------------- |------------- |
 | 8h30-9h30| [Feedback on report]() | online blackboard collaborate |
 
+&nbsp;
+
 ## Learning outcomes
 By the end of the practicum, you should be able to:  
 
