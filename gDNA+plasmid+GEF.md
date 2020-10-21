@@ -12,7 +12,8 @@
 
 ## On-campus
 
-Follow the instructions of the assistant to perform the gDNA extraction.  
+Choose your receptor bacterial strain and perform the gDNA extraction by following the instructions on page 4 of the lab manual.
+Additional instructions are given by the assistant how to operate the pipets and centrifuges.
 
 During the first 30 minute break (incubation step at 37°C):   
 - Find a covid-safe spot to work on your laptop and look up what each product does in the process of DNA-extraction.  
@@ -34,13 +35,18 @@ You will receive the gel results the next day in the morning.
 
 ## Online
 
-- Based on the email instructions you should have signed up for [praxilab](https://praxilabs.com/en/sign-up).
-- Click on the module: DNA extraction, enter the virtual lab, and follow the DNA-extraction protocol that the virtual instructor gives you.  
+Choose the receptor bacterial strain you will work with during this practicum.
+>>>> Send me a mail with the name of the receptor strain that you will work with (sofie.thijs@uhasselt.be)
+Read the instructions on page 4 of the lab manual to know how to perform the gDNA extraction.  
+When you are ready, enter the virtual class.  
+
+Based on the email instructions you should have signed up for [praxilab](https://praxilabs.com/en/sign-up).
+Click on the module: DNA extraction, enter the virtual lab, and follow the DNA-extraction protocol that the virtual instructor gives you.  
 Click on the robot to let him speak.
 
 <img src="https://praxilabs.com/EnglishContent/images/News/Biology.jpg" width="250px">
 
-After you finish the DNA-extraction, ssearch what each product in the DNA-extraction kit does.  
+After you finish the DNA-extraction, search what each product in the DNA-extraction kit does.  
 You have used different products to extract the DNA then your colleagues in the wet lab.  
 The products you used are the following, what is the typical composition of the products you used, why, what happens with the DNA in each step?  
 - RNAse A  
