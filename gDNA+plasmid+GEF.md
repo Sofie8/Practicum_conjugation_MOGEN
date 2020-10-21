@@ -13,11 +13,12 @@
 ## On-campus
 
 Follow the instructions of the assistant to perform the gDNA extraction.  
-During the first 30 minute break (incubation step at 37°C):  
+During the first 30 minute break (incubation step at 37°C):   
 - Find a covid-safe spot to work on your laptop and look up what each product does in the process of DNA-extraction.  
+
 During the second 30 minute break (incubation step at 56°C):  
 - Find a covid-safe spot to work on your laptop and search the growth characteristics of your receptor strain: where was it found, which growth medium can it use, does it has plasmids?  
-Tip: use the NCBI website and the accession number of your strain to query, given on page 4 of the manual.  
+Hint: use the [NCBI website](https://www.ncbi.nlm.nih.gov/) and the accession number of your strain to query, given on page 4 of the labmanual.  
 
 Lunch break
 
