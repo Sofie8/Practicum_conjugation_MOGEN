@@ -29,6 +29,8 @@ Here you will find the outline, daily schedule, and powerpoint presentations for
 
 &nbsp;
 
+| Time  | Activity | Room |
+| ------------- | ------------- |------------- |
 | Fri 23/10     |  | |
 |  |  | |
 | 9h00-9h30   | [Results gel electrophoresis and introduction to conjugation]()| G41 |
@@ -40,6 +42,8 @@ Here you will find the outline, daily schedule, and powerpoint presentations for
 
 &nbsp;
 
+| Time  | Activity | Room |
+| ------------- | ------------- |------------- |
 | Mo 26/10     |  | |
 |  |  | |
 | 9h00-9h50   | [Microscopy slide preparation and fluorescence microscopy group 1]()| G41 + G72 |
@@ -53,10 +57,14 @@ Here you will find the outline, daily schedule, and powerpoint presentations for
 
 &nbsp;
 
+| Time  | Activity | Room |
+| ------------- | ------------- |------------- |
 | Tu 3/11     | Deadline hand-in report | |
 
 &nbsp;
 
+| Time  | Activity | Room |
+| ------------- | ------------- |------------- |
 | Thu 5/11     | Report feedback | |
 | 8h30-9h30| [Feedback on report]() | online blackboard collaborate |
 
