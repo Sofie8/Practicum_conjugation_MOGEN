@@ -55,7 +55,7 @@ Here you will find the outline, daily schedule, and powerpoint presentations for
 &nbsp;
 
 ## Tuesday 3/11/2020: deadline hand-in report 
-Read [here](https://github.com/Sofie8/Practicum_conjugation_MOGEN/blob/main/report_guidelines.md) for the report guidelines.
+Follow the [report guidelines] (https://github.com/Sofie8/Practicum_conjugation_MOGEN/blob/main/report_guidelines.md).
 
 &nbsp;
 
