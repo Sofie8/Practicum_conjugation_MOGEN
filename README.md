@@ -28,8 +28,29 @@ Here you will find the outline, daily schedule, and powerpoint presentations for
 | 16h00-16h15   | Cleaning| G42 |
 |  |  ||
 | Fri 23/10     |  | |
-| ------------- | ------------- |------------- |
-
+|  |  | |
+| 9h00-9h30   | [Results gel electrophoresis and introduction to conjugation](https://github.com/Sofie8/Course-MOGEN/blob/main/INTRO.md)| G41 |
+| 9h30-11h30   | [Conjugation](https://github.com/Sofie8/Practicum_conjugation_MOGEN/blob/main/gDNA%2Bplasmid%2BGEF.md)| G42 |
+| 12h00-13h00   | Lunch Break  |
+| 13h00-14h30   | Read, search and design your selective medium | free work place to work covidsafe in group |
+| 14h30-15h30   | [Plate conjugation on your selective medium](https://github.com/Sofie8/Practicum_conjugation_MOGEN/blob/main/gDNA+plasmid+GEF.md)| G41 |
+| 15h30-16h45   | Cleaning| G41 |
+|  |  ||
+| Mo 26/10     |  | |
+|  |  | |
+| 9h00-9h50   | [Microscopy slide preparation and fluorescence microscopy group 1]()| G41 + G72 |
+| 9h50-10h50   | [Plasmid DNA extraction and gel electrophoresis group 1]()| G41 |
+| 9h50-10h40   | [Microscopy slide preparation and fluorescence microscopy group 2]()| G41 + G72 |
+| 10h40-11h30   | [Plasmid DNA extraction and gel electrophoresis group 2]()| G41 |
+| 13h00-13h50   | [Microscopy slide preparation and fluorescence microscopy group 3]()| G41 + G72 |
+| 13h50-14h40   | [Plasmid DNA extraction and gel electrophoresis group 3]()| G41 |
+| 13h50-14h40   | [Microscopy slide preparation and fluorescence microscopy group 4]()| G41 + G72 |
+| 14h40-15h30   | [Plasmid DNA extraction and gel electrophoresis group 4]()| G41 |
+|  |  ||
+| Tu 3/11     | Deadline hand-in report | |
+|  |  | |
+| Thu 5/11     | Report feedback | |
+| 8h30-9h30| [Feedback on report]() | online blackboard collaborate |
 
 ## Learning outcomes
 By the end of the practicum, you should be able to:  
