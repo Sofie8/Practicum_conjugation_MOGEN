@@ -49,6 +49,6 @@ Your bacteria will grow over the weekend! Let's check the results on monday morn
 
 ## References
 - If you have time left: check this [video](https://www.youtube.com/watch?v=ygOYZfCjK3M) about conjugation. Use this to discuss your findings of the conjugation results. 
-- If you want to refresh both conjugation and [transduction] (https://www.britannica.com/video/154218/DNA-another-cell-conjugation-transduction-processes)
+- If you want to refresh both conjugation and [transduction](https://www.britannica.com/video/154218/DNA-another-cell-conjugation-transduction-processes)
 &nbsp;
 &nbsp;
