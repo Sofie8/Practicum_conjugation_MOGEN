@@ -7,7 +7,7 @@
 &nbsp;
 
 
-<img src="https://i.gifer.com/AZeT.gif">
+<img src="https://thumbs.gfycat.com/AppropriateConventionalIndigobunting-size_restricted.gif" width="150px">
 
 
 ## On-campus
