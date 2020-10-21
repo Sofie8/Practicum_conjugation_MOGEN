@@ -32,7 +32,7 @@ Here you will find the outline, daily schedule, and powerpoint presentations for
 | Time  | Activity | Room |
 | ------------- | ------------- |------------- |
 | 9h00-9h30   | [Results gel electrophoresis and introduction to conjugation]()| G41 |
-| 9h30-11h30   | [Conjugation](https://github.com/Sofie8/Practicum_conjugation_MOGEN/blob/main/Conjugation.md)| G42 |
+| 9h30-11h30   | [Conjugation](https://github.com/Sofie8/Practicum_conjugation_MOGEN/blob/main/Conjugation.md)| G41 |
 | 12h00-13h00   | Lunch Break  |
 | 13h00-14h30   | [Read, search and design your selective medium](https://github.com/Sofie8/Practicum_conjugation_MOGEN/blob/main/Conjugation.md) | free work place |
 | 14h30-15h30   | [Plate conjugation on your selective medium](https://github.com/Sofie8/Practicum_conjugation_MOGEN/blob/main/Conjugation.md)| G41 |
