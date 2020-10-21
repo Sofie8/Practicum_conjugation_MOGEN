@@ -40,7 +40,7 @@ You will receive the gel results the next day in the morning.
 ## Online
 
 ### gDNA extraction
-Choose the receptor bacterial strain you will work with during this practicum.
+Choose the receptor bacterial strain you will work with during this practicum, see page 4 of the lab manual.
 >>>> Send me a mail with the name of the receptor strain that you will work with (sofie.thijs@uhasselt.be)  
 
 Read the instructions on page 4 of the lab manual to know how to perform the gDNA extraction.  
