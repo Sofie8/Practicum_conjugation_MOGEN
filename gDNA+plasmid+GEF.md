@@ -25,10 +25,10 @@ Hint: use the [NCBI website](https://www.ncbi.nlm.nih.gov/) and the accession nu
 
 Lunch break
 
-Follow the instructions of the assistant to perform the plasmid extraction.  
+Follow the instructions of the assistant to perform the plasmid extraction, on page 11 in the lab manual.  
 The procedure is different then the gDNA extraction, how and why?  
 
-Follow the instructions of the assistant to load your gDNA and plasmid DNA on the gel.  
+Follow the instructions of the assistant to load your gDNA and plasmid DNA on the gel, on page 13 in the lab manual.  
 You will receive the gel results the next day in the morning.
 
 &nbsp;
@@ -62,10 +62,11 @@ How does it differ from the protocol your colleagues used. What are the advantag
 
 Lunch break
 
-Read the instructions how to perform a plasmid DNA extraction in the lab manual (there is no virtual module for this).  
+Read the instructions how to perform a plasmid DNA extraction on page 11 in the lab manual (there is no virtual module for this).  
 The procedure is different then the gDNA extraction, how and why?  
 
-In praxilab, click on the module: gel electrophoresis, enter the virtual lab, and follow the protocol that the virtual instructor gives you to load DNA in the gel.  
+Read the instructions how to load your gDNA and plasmid DNA on an agarose gel, on page 13 in the lab manual.  
+In praxilab, click on the module: gel electrophoresis, enter the virtual lab, and follow the protocol that the virtual instructor gives.  
 What is the role of the red 'stain' that you add to the agarose?  What is the role of the loading buffer?  Why do we orientate the gel and load from - to + ?  
 
 <img src="https://praxilabs.com/EnglishContent/images/O_NewVirtualLab/Molecular%20Biology/Protein%20Electrophoresis/1.png" width="250px">  
