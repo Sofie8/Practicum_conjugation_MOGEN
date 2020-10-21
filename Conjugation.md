@@ -1,4 +1,4 @@
-## Triparental conjugation and streaking the bacteria after conjugation on plate
+## Triparental conjugation and streaking the bacteria on plate
 ### Sofie Thijs (sofie.thijs@uhasselt.be)
 ### date: 23/10/2020
 
