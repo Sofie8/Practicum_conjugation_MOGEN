@@ -15,10 +15,9 @@ Here you will find the outline, daily schedule, and powerpoint presentations for
 
 
 # Schedule
+## Thursday 22/10/2020
 | Time  | Activity | Room |
 | ------------- | ------------- |------------- |
-| Thu 22/10     |  | |
-|  |  | |
 | 8h45-9h00     | [Biosafety presentation: watch before you come to the class](https://github.com/Sofie8/Practicum_conjugation_MOGEN/blob/main/Biosafety.md)| online |
 | 9h00-9h30   | [Introduction to the practicum](https://github.com/Sofie8/Course-MOGEN/blob/main/INTRO.md)| G2 |
 | 9h30-12h00   | [Genomic DNA extraction](https://github.com/Sofie8/Practicum_conjugation_MOGEN/blob/main/gDNA%2Bplasmid%2BGEF.md)| G42 |
@@ -29,10 +28,9 @@ Here you will find the outline, daily schedule, and powerpoint presentations for
 
 &nbsp;
 
+## Friday 23/10/2020
 | Time  | Activity | Room |
 | ------------- | ------------- |------------- |
-| Fri 23/10     |  | |
-|  |  | |
 | 9h00-9h30   | [Results gel electrophoresis and introduction to conjugation]()| G41 |
 | 9h30-11h30   | [Conjugation]()| G42 |
 | 12h00-13h00   | Lunch Break  |
@@ -42,10 +40,9 @@ Here you will find the outline, daily schedule, and powerpoint presentations for
 
 &nbsp;
 
+## Monday 26/10/2020
 | Time  | Activity | Room |
 | ------------- | ------------- |------------- |
-| Mo 26/10     |  | |
-|  |  | |
 | 9h00-9h50   | [Microscopy slide preparation and fluorescence microscopy group 1]()| G41 + G72 |
 | 9h50-10h50   | [Plasmid DNA extraction and gel electrophoresis group 1]()| G41 |
 | 9h50-10h40   | [Microscopy slide preparation and fluorescence microscopy group 2]()| G41 + G72 |
@@ -57,15 +54,13 @@ Here you will find the outline, daily schedule, and powerpoint presentations for
 
 &nbsp;
 
-| Time  | Activity | Room |
-| ------------- | ------------- |------------- |
-| Tu 3/11     | Deadline hand-in report | |
+## Tuesday 3/11/2020: deadline hand-in report 
 
 &nbsp;
 
+## Thursday 5/11/2020
 | Time  | Activity | Room |
 | ------------- | ------------- |------------- |
-| Thu 5/11     | Report feedback | |
 | 8h30-9h30| [Feedback on report]() | online blackboard collaborate |
 
 ## Learning outcomes
