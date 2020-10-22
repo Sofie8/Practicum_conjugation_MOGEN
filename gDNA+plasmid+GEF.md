@@ -19,6 +19,7 @@ Additional instructions are given by the assistant how to operate the pipets and
 
 During the first 30 minute break (incubation step at 37°C):   
 - Find a covid-safe spot to work on your laptop and look up what each product does in the process of DNA-extraction.  
+  - Hint: [lysosyme](https://iubmb.onlinelibrary.wiley.com/doi/full/10.1002/bmb.21092)
 
 During the second 30 minute break (incubation step at 56°C):  
 - Find a covid-safe spot to work on your laptop and search the growth characteristics of your receptor strain: where was it found, which growth medium can it use, does it has plasmids?  
