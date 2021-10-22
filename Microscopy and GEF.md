@@ -64,7 +64,7 @@ One you both the fluorescence microscopy images and gel electrophoresis results,
 - The plasmid band size is... correct size, not correct size?
 
 ## References
-- https://myscope.training/legacy/confocal/virtual/fluorescence.php
+- https://myscope.training/#/LMlevel_2_1
 
 &nbsp;
 &nbsp;
