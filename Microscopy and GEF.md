@@ -33,7 +33,7 @@ One you both the fluorescence microscopy images and gel electrophoresis results,
 
 ### Microscopy part
 Read the instructions on page 18 in the lab manual to know how to make the microscopy slide.  
-Now you will be able to handle the [virtual fluorescence microscope](https://myscope.training/legacy/confocal/virtual/fluorescence.php) to observe a sample.  
+Now you will be able to handle the [virtual fluorescence microscope](https://myscope.training/LM_simulator.html) to observe a sample.  
 Please follow the instructions given on the webpage to turn the fluorescence on, focus your sample.  You can also try out the module light microscopy, and the module confocal microscopy. 
 
 <img src="https://github.com/Sofie8/Practicum_conjugation_MOGEN/blob/main/Virtualmicroscope.JPG" width="250px">
